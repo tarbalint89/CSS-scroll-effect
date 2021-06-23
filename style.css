@@ -13,8 +13,8 @@
 
 section {
     align-items: center;
-    display: flex;
     color: #fff;
+    display: flex;
     height: 100vh;
     justify-content: center;
     scroll-snap-align: start;
